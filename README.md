@@ -1,8 +1,6 @@
 <h1 align="center">Jogo do Número Secreto</h1>
 
-<p align="center">
-<img src="[http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge](https://github.com/ilanaalc/jogo-do-numero-secreto-js/assets/115844304/13ea2c68-af82-4a0b-85aa-f5248a68174d)"/>
-</p>
+![Página Principal do Jodo Número Secreto](https://github.com/ilanaalc/jogo-do-numero-secreto-js/assets/115844304/13ea2c68-af82-4a0b-85aa-f5248a68174d)
 
 ## Descrição do projeto 
 
